@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in West Virginia, US",
+  "export_job_id": "999e9669-6680-423f-af34-1146c1ed9192",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 674797,
+  "location_name": "West Virginia",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-west-virginia-us-sample-674797",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/674797/beamstation_674797_restaurants-us-wv_SAMPLE_DIST.csv",
+  "sample_pct": 9.84,
+  "sample_records": 6,
+  "sample_sha256": "4a3445236adc95d2934ec26ebfa0151447c826052347f39aba5d4499bb024065",
+  "sample_size_bytes": 36363,
+  "total_records": 61,
+  "updated_at": "2026-04-08T06:44:00.141277+00:00"
+}
