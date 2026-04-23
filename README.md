@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in West Virginia, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `674797` |
 | Location | West Virginia |
 | Category | Restaurants |
-| Full dataset size | 58 records |
-| Free sample size | 5 records (8.62%) |
-| Last export | 2026-04-15T10:15:54.030996+00:00 |
+| Full dataset size | 4 records |
+| Free sample size | 1 records (25.0%) |
+| Last export | 2026-04-22T17:39:20.734355+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-west-virginia-us-sample-674797/releases/download/sample-latest/beamstation_674797_restaurants-us-wv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
