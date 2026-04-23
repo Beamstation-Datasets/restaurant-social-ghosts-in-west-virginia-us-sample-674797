@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d542fe62-b0bf-40f3-a02e-ce7faa3970f1",
+  "export_job_id": "88ff5786-e7b8-4e5d-b962-6e8ee0971933",
   "id_short": 674797,
-  "published_at": "2026-04-19T07:36:21Z",
+  "published_at": "2026-04-23T07:03:23Z",
   "repo_name": "restaurant-social-ghosts-in-west-virginia-us-sample-674797",
   "sample_asset_name": "beamstation_674797_restaurants-us-wv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/674797/beamstation_674797_restaurants-us-wv_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "8079d22060731f4d1dba6d98b49944434e8d024e57432dbd128944477a0b68e3",
-  "sample_size_bytes": 33317,
-  "total_records": 58
+  "sample_records": 1,
+  "sample_sha256": "9f9a9585bc086c0f62d23bf54faf2b526f221a0119b4edcf66ee902dc88879e8",
+  "sample_size_bytes": 19933,
+  "total_records": 4
 }
